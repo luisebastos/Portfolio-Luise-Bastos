@@ -1,0 +1,150 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+    font-size: 18px;
+}
+
+#contact {
+    text-align: center;
+    padding: 20px;
+    background-color: #797671;
+    color: #d4adb3;
+    margin-top: 20px;
+
+}
+
+#contact img {
+    width: 20px; 
+    height: auto;
+    vertical-align: middle; 
+    margin-right: 5px; 
+}
+
+.imagemtenis img {
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+    border: 9px solid #d4adb3;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease, backgound-color 0.3s ease;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 20px;
+    background-color: #d4adb3;
+    color: #fff;
+    margin: 0;
+}
+
+.content{
+    width: 50%
+}
+
+header {
+    background-color: #a49f9f;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #d4adb3;
+}
+
+.content {
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin: 30px;
+    color: #333; 
+    margin-left: 21rem;
+}
+
+h2 {
+    font-size: 24px;
+    color: #d4adb3;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#sobre img{
+    width: 30%; 
+    height: auto; 
+    overflow: hidden;
+    float: right;
+    margin-right: 20px; 
+    margin-left: 20px; 
+}
+
+#trabalhos img{
+    width: 50%; 
+    height: auto; 
+    overflow: hidden;
+    float: right;
+    margin-right: 20px; 
+    margin-left: 20px; 
+}
+
+#social img{
+    width: 50%; 
+    height: auto; 
+    overflow: hidden;
+    float: right;
+    margin-right: 20px; 
+    margin-left: 20px; 
+}
+
+#projetosacad img{
+    width: 50%; 
+    height: auto; 
+    overflow: hidden;
+    float: right;
+    margin-right: 20px;
+}
+
+#trabalhos p {
+    opacity: 0; 
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+
